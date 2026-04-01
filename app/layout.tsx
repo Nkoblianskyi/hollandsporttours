@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Holland Sport Tours - Sportreizen door Nederland, Europa en de Wereld',
     description: 'Ontdek unieke sportreizen en sportevenementen in Nederland, Europa en wereldwijd.',
-    images: ['/og-image.jpg'],
+    images: ['/photo-1461896836934-ffe607ba8211.jpeg'],
   },
   robots: {
     index: true,
@@ -66,23 +66,7 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
+
 }
 
 export const viewport: Viewport = {

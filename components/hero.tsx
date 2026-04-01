@@ -9,7 +9,7 @@ export function Hero() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70 z-10" />
         <img 
-          src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&q=80" 
+          src="/photo-1461896836934-ffe607ba8211.jpeg" 
           alt="Sports action" 
           className="w-full h-full object-cover"
         />
