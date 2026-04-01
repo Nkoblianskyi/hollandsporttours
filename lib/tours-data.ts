@@ -44,7 +44,7 @@ export const tours: Tour[] = [
     location: 'Utrecht – Limburg',
     country: 'Nederland',
     region: 'nederland',
-    date: 'Maart–April 2026',
+    date: 'April 2026',
     duration: '7 dagen',
     category: 'Wielrennen',
     shortDescription: 'Fiets de routes van de Nederlandse voorjaarswedstrijden door polder en heuvelland.',
