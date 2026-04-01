@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     description: 'Ontdek unieke sportreizen en sportevenementen in Nederland, Europa en wereldwijd.',
     images: [
       {
-        url: '/og-image.jpg',
+        url: '/about-team.jpg',
         width: 1200,
         height: 630,
         alt: 'Holland Sport Tours',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Holland Sport Tours - Sportreizen door Nederland, Europa en de Wereld',
     description: 'Ontdek unieke sportreizen en sportevenementen in Nederland, Europa en wereldwijd.',
-    images: ['/photo-1461896836934-ffe607ba8211.jpeg'],
+    images: ['/about-team.jpg'],
   },
   robots: {
     index: true,
